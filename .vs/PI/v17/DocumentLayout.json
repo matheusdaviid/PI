@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\PI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telaprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telaprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telaprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telaprojeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telamenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telausuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telausuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\telaprojeto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\telaprojeto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|c:\\xampp\\htdocs\\pi\\pi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0804402-F0B9-4443-A7D7-06D4839A4E53}|PI\\PI.csproj|solutionrelative:pi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 340,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelaUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.Designer.cs",
+              "RelativeDocumentMoniker": "PI\\TelaUsuario.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.Designer.cs",
+              "RelativeToolTip": "PI\\TelaUsuario.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:00:13.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelaProjeto.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.Designer.cs",
+              "RelativeDocumentMoniker": "PI\\TelaProjeto.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.Designer.cs",
+              "RelativeToolTip": "PI\\TelaProjeto.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:59:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TelaMenu.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.Designer.cs",
+              "RelativeDocumentMoniker": "PI\\TelaMenu.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.Designer.cs",
+              "RelativeToolTip": "PI\\TelaMenu.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:59:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PI\\Form1.Designer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\Form1.Designer.cs",
+              "RelativeToolTip": "PI\\Form1.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:58:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TelaUsuario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.cs",
+              "RelativeDocumentMoniker": "PI\\TelaUsuario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.cs",
+              "RelativeToolTip": "PI\\TelaUsuario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:57:19.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelaUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.cs",
+              "RelativeDocumentMoniker": "PI\\TelaUsuario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaUsuario.cs [Design]",
+              "RelativeToolTip": "PI\\TelaUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:57:18.452Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelaMenu.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.cs",
+              "RelativeDocumentMoniker": "PI\\TelaMenu.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.cs",
+              "RelativeToolTip": "PI\\TelaMenu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:57:06.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaMenu.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.cs",
+              "RelativeDocumentMoniker": "PI\\TelaMenu.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaMenu.cs [Design]",
+              "RelativeToolTip": "PI\\TelaMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:57:05.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\Form1.cs",
+              "RelativeDocumentMoniker": "PI\\Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\Form1.cs",
+              "RelativeToolTip": "PI\\Form1.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAE4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:56:51.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\Form1.cs",
+              "RelativeDocumentMoniker": "PI\\Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\Form1.cs [Design]",
+              "RelativeToolTip": "PI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:56:50.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaProjeto.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.cs",
+              "RelativeDocumentMoniker": "PI\\TelaProjeto.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.cs",
+              "RelativeToolTip": "PI\\TelaProjeto.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:53:51.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaProjeto.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.cs",
+              "RelativeDocumentMoniker": "PI\\TelaProjeto.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\PI\\PI\\TelaProjeto.cs [Design]",
+              "RelativeToolTip": "PI\\TelaProjeto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:52:33.888Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

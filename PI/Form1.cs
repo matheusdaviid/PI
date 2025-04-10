@@ -47,7 +47,7 @@ namespace PI
                 return;
             }
 
-            string connectionString = "Server=localhost;Database=db_flowteams;Uid=root;Pwd=;";
+            string connectionString = "Server=srv724.hstgr.io;Database=u857606359_db_flowteams;Uid=u857606359_david;Pwd=FlowTeams123;";
 
             using (MySqlConnection connection = new MySqlConnection(connectionString))
             {
